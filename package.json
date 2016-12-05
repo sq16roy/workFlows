@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/sq16roy/workFlows.git"
   },
   "author": "Roy solera",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-until": "^0.1.3",
+    "gulp-coffee": "^2.3.3",
     "gulp-util": "^3.0.7"
   }
 }
